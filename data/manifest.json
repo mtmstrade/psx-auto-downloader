@@ -2,49 +2,49 @@
   "index_fluctuation": {
     "etag": "",
     "last_modified": "",
-    "content_length": "25740",
-    "hash": "843636a93d58751703065477d441d4f5",
-    "last_saved": "data/index_fluctuation/index_fluctuation_2026-05-12_843636.lis.Z",
-    "saved_at": "2026-05-12T13:20:20.521112"
+    "content_length": "25429",
+    "hash": "cda9249db8400f3515710f147f3e8923",
+    "last_saved": "data/index_fluctuation/index_fluctuation_2026-05-13_cda924.lis.Z",
+    "saved_at": "2026-05-13T13:35:33.954179"
   },
   "all_share_index_mkt_cap": {
     "etag": "",
     "last_modified": "",
-    "content_length": "2424",
-    "hash": "bdf3840fa1734cd50a837d61498873f2",
-    "last_saved": "data/all_share_index_mkt_cap/all_share_index_mkt_cap_2026-05-12_bdf384.lis.Z",
-    "saved_at": "2026-05-12T13:20:23.225892"
+    "content_length": "2399",
+    "hash": "f19d5bf0e98d7013e8e68b92bca49cfc",
+    "last_saved": "data/all_share_index_mkt_cap/all_share_index_mkt_cap_2026-05-13_f19d5b.lis.Z",
+    "saved_at": "2026-05-13T13:35:37.698345"
   },
   "psx_header": {
     "etag": "",
     "last_modified": "",
-    "content_length": "1087",
-    "hash": "427ed39ada92d2163fe5bbae6517e1de",
-    "last_saved": "data/psx_header/psx_header_2026-05-12_427ed3.zip",
-    "saved_at": "2026-05-12T13:20:26.203519"
+    "content_length": "1090",
+    "hash": "201baacb732411d6fb1437c3bde2ce97",
+    "last_saved": "data/psx_header/psx_header_2026-05-13_201baa.zip",
+    "saved_at": "2026-05-13T13:35:40.678130"
   },
   "psx_header_tradable_indices": {
     "etag": "",
     "last_modified": "",
-    "content_length": "1277",
-    "hash": "6933a20335f34327e33eb06dc7f701ab",
-    "last_saved": "data/psx_header_tradable_indices/psx_header_tradable_indices_2026-05-12_6933a2.zip",
-    "saved_at": "2026-05-12T13:20:29.121010"
+    "content_length": "1285",
+    "hash": "23d737c90e51b5d3f9bdd5091f7b1cac",
+    "last_saved": "data/psx_header_tradable_indices/psx_header_tradable_indices_2026-05-13_23d737.zip",
+    "saved_at": "2026-05-13T13:35:43.599863"
   },
   "companies_info": {
     "etag": "",
     "last_modified": "",
     "content_length": "11214",
-    "hash": "de2820581b90de2227a578df8ed084c3",
-    "last_saved": "data/companies_info/companies_info_2026-05-12_de2820.lst.Z",
-    "saved_at": "2026-05-12T13:20:32.837096"
+    "hash": "53a78c1a9c8342f609d26dea49a98bc5",
+    "last_saved": "data/companies_info/companies_info_2026-05-13_53a78c.lst.Z",
+    "saved_at": "2026-05-13T13:35:48.229201"
   },
   "kse_100_index_companies": {
     "etag": "",
     "last_modified": "",
-    "content_length": "3927",
-    "hash": "4bf22594e62914a350288b1e26f87098",
-    "last_saved": "data/kse_100_index_companies/kse_100_index_companies_2026-05-12_4bf225.lis.Z",
-    "saved_at": "2026-05-12T13:20:35.529127"
+    "content_length": "3938",
+    "hash": "4b19f88646c5f3c9abef0bd8812a70d4",
+    "last_saved": "data/kse_100_index_companies/kse_100_index_companies_2026-05-13_4b19f8.lis.Z",
+    "saved_at": "2026-05-13T13:35:50.974323"
   }
 }
